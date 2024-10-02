@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\BlazorApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{200DCE48-97D6-43E1-A88C-C5E030DD82FA}|ClassLibrary.Model\\ClassLibrary.Model.csproj|c:\\users\\user\\source\\repos\\blazorapp1\\classlibrary.model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{200DCE48-97D6-43E1-A88C-C5E030DD82FA}|ClassLibrary.Model\\ClassLibrary.Model.csproj|solutionrelative:classlibrary.model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{200DCE48-97D6-43E1-A88C-C5E030DD82FA}|ClassLibrary.Model\\ClassLibrary.Model.csproj|C:\\Users\\User\\source\\repos\\BlazorApp1\\classlibrary.model\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{200DCE48-97D6-43E1-A88C-C5E030DD82FA}|ClassLibrary.Model\\ClassLibrary.Model.csproj|solutionrelative:classlibrary.model\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4F3DFE-CD85-4B64-906C-EA28B55D771F}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\user\\source\\repos\\blazorapp1\\blazorapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4F3DFE-CD85-4B64-906C-EA28B55D771F}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{200DCE48-97D6-43E1-A88C-C5E030DD82FA}|ClassLibrary.Model\\ClassLibrary.Model.csproj|C:\\Users\\User\\source\\repos\\BlazorApp1\\classlibrary.model\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{200DCE48-97D6-43E1-A88C-C5E030DD82FA}|ClassLibrary.Model\\ClassLibrary.Model.csproj|solutionrelative:classlibrary.model\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4F3DFE-CD85-4B64-906C-EA28B55D771F}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\user\\source\\repos\\blazorapp1\\blazorapp1\\pages\\employee.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE4F3DFE-CD85-4B64-906C-EA28B55D771F}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\pages\\employee.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4F3DFE-CD85-4B64-906C-EA28B55D771F}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\user\\source\\repos\\blazorapp1\\blazorapp1\\pages\\employeelistbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4F3DFE-CD85-4B64-906C-EA28B55D771F}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\pages\\employeelistbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4F3DFE-CD85-4B64-906C-EA28B55D771F}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\user\\source\\repos\\blazorapp1\\blazorapp1\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE4F3DFE-CD85-4B64-906C-EA28B55D771F}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BlazorApp1\\ClassLibrary.Model\\Gender.cs",
+              "RelativeDocumentMoniker": "ClassLibrary.Model\\Gender.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BlazorApp1\\ClassLibrary.Model\\Gender.cs",
+              "RelativeToolTip": "ClassLibrary.Model\\Gender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T09:10:55.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BlazorApp1\\BlazorApp1\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BlazorApp1\\BlazorApp1\\Program.cs",
+              "RelativeToolTip": "BlazorApp1\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T09:09:48.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BlazorApp1\\ClassLibrary.Model\\Department.cs",
+              "RelativeDocumentMoniker": "ClassLibrary.Model\\Department.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BlazorApp1\\ClassLibrary.Model\\Department.cs",
+              "RelativeToolTip": "ClassLibrary.Model\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T09:07:52.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BlazorApp1\\ClassLibrary.Model\\Employee.cs",
+              "RelativeDocumentMoniker": "ClassLibrary.Model\\Employee.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BlazorApp1\\ClassLibrary.Model\\Employee.cs",
+              "RelativeToolTip": "ClassLibrary.Model\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T09:06:36.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeListBase.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BlazorApp1\\BlazorApp1\\Pages\\EmployeeListBase.cs",
+              "RelativeDocumentMoniker": "BlazorApp1\\Pages\\EmployeeListBase.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BlazorApp1\\BlazorApp1\\Pages\\EmployeeListBase.cs",
+              "RelativeToolTip": "BlazorApp1\\Pages\\EmployeeListBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T08:59:02.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.razor",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BlazorApp1\\BlazorApp1\\Pages\\Employee.razor",
+              "RelativeDocumentMoniker": "BlazorApp1\\Pages\\Employee.razor",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BlazorApp1\\BlazorApp1\\Pages\\Employee.razor",
+              "RelativeToolTip": "BlazorApp1\\Pages\\Employee.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T08:56:44.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BlazorApp1\\BlazorApp1\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "BlazorApp1\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BlazorApp1\\BlazorApp1\\Pages\\Error.cshtml",
+              "RelativeToolTip": "BlazorApp1\\Pages\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T08:54:11.838Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

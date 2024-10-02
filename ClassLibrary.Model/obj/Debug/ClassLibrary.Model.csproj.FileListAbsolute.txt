@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\BlazorApp1\ClassLibrary.Model\bin\Debug\ClassLibrary.Model.dll
+C:\Users\User\source\repos\BlazorApp1\ClassLibrary.Model\bin\Debug\ClassLibrary.Model.pdb
+C:\Users\User\source\repos\BlazorApp1\ClassLibrary.Model\obj\Debug\ClassLibrary.Model.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\BlazorApp1\ClassLibrary.Model\obj\Debug\ClassLibrary.Model.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BlazorApp1\ClassLibrary.Model\obj\Debug\ClassLibrary.Model.dll
+C:\Users\User\source\repos\BlazorApp1\ClassLibrary.Model\obj\Debug\ClassLibrary.Model.pdb
